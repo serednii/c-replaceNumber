@@ -1,0 +1,11 @@
+D:\c#\fileSaveRead\fileSaveRead\bin\Debug\fileSaveRead.exe.config
+D:\c#\fileSaveRead\fileSaveRead\bin\Debug\fileSaveRead.exe
+D:\c#\fileSaveRead\fileSaveRead\bin\Debug\fileSaveRead.pdb
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.csproj.AssemblyReference.cache
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.csproj.SuggestedBindingRedirects.cache
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.Form1.resources
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.Properties.Resources.resources
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.csproj.GenerateResource.cache
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.csproj.CoreCompileInputs.cache
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.exe
+D:\c#\fileSaveRead\fileSaveRead\obj\Debug\fileSaveRead.pdb
